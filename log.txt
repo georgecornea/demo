@@ -1,2 +1,7 @@
 New example file
-Some unexpected updates
+<<<<<<< HEAD
+
+=======
+lines added to this file
+Some additonal changes that I am not sure
+>>>>>>> updades
